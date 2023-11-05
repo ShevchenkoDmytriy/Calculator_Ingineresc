@@ -1,0 +1,67 @@
+[Mon Oct 30 18:30:40.729120 2023] [mpm_winnt:notice] [pid 8620:tid 468] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Mon Oct 30 18:30:40.730120 2023] [mpm_winnt:notice] [pid 8620:tid 468] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Oct 30 18:30:40.730120 2023] [core:notice] [pid 8620:tid 468] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 30 18:30:40.731119 2023] [mpm_winnt:notice] [pid 8620:tid 468] AH00418: Parent: Created child process 9008
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 9008:tid 488] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 30 18:30:47.022091 2023] [mpm_winnt:notice] [pid 8620:tid 468] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 30 18:30:49.023496 2023] [mpm_winnt:notice] [pid 9008:tid 488] AH00364: Child: All worker threads have exited.
+[Mon Oct 30 18:30:49.037682 2023] [mpm_winnt:notice] [pid 8620:tid 468] AH00430: Parent: Child process 9008 exited successfully.
+[Mon Oct 30 18:30:50.484198 2023] [mpm_winnt:notice] [pid 11024:tid 468] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Mon Oct 30 18:30:50.484198 2023] [mpm_winnt:notice] [pid 11024:tid 468] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Oct 30 18:30:50.484198 2023] [core:notice] [pid 11024:tid 468] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 30 18:30:50.485198 2023] [mpm_winnt:notice] [pid 11024:tid 468] AH00418: Parent: Created child process 2256
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 2256:tid 504] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 30 18:30:51.585535 2023] [mpm_winnt:notice] [pid 11024:tid 468] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 30 18:30:53.586173 2023] [mpm_winnt:notice] [pid 2256:tid 504] AH00364: Child: All worker threads have exited.
+[Mon Oct 30 18:30:53.601184 2023] [mpm_winnt:notice] [pid 11024:tid 468] AH00430: Parent: Child process 2256 exited successfully.
+[Mon Oct 30 18:36:22.876667 2023] [mpm_winnt:notice] [pid 11232:tid 468] AH00455: Apache/2.4.58 (Win64) PHP/8.2.12 configured -- resuming normal operations
+[Mon Oct 30 18:36:22.876667 2023] [mpm_winnt:notice] [pid 11232:tid 468] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Oct 30 18:36:22.876667 2023] [core:notice] [pid 11232:tid 468] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 30 18:36:22.878664 2023] [mpm_winnt:notice] [pid 11232:tid 468] AH00418: Parent: Created child process 10952
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 10952:tid 508] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 30 18:36:24.002507 2023] [mpm_winnt:notice] [pid 11232:tid 468] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 30 18:36:26.003944 2023] [mpm_winnt:notice] [pid 10952:tid 508] AH00364: Child: All worker threads have exited.
+[Mon Oct 30 18:36:26.021001 2023] [mpm_winnt:notice] [pid 11232:tid 468] AH00430: Parent: Child process 10952 exited successfully.
+[Mon Oct 30 18:37:51.121218 2023] [mpm_winnt:notice] [pid 11308:tid 476] AH00455: Apache/2.4.58 (Win64) PHP/8.2.12 configured -- resuming normal operations
+[Mon Oct 30 18:37:51.121218 2023] [mpm_winnt:notice] [pid 11308:tid 476] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Oct 30 18:37:51.121218 2023] [core:notice] [pid 11308:tid 476] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 30 18:37:51.122217 2023] [mpm_winnt:notice] [pid 11308:tid 476] AH00418: Parent: Created child process 9428
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 9428:tid 528] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 30 18:37:56.074001 2023] [mpm_winnt:notice] [pid 11308:tid 476] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 30 18:38:15.965487 2023] [mpm_winnt:notice] [pid 9428:tid 528] AH00364: Child: All worker threads have exited.
+[Mon Oct 30 18:38:38.136437 2023] [core:warn] [pid 10168:tid 472] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 30 18:38:38.156426 2023] [mpm_winnt:notice] [pid 10168:tid 472] AH00455: Apache/2.4.58 (Win64) PHP/8.2.12 configured -- resuming normal operations
+[Mon Oct 30 18:38:38.156426 2023] [mpm_winnt:notice] [pid 10168:tid 472] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Oct 30 18:38:38.156426 2023] [core:notice] [pid 10168:tid 472] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 30 18:38:38.157426 2023] [mpm_winnt:notice] [pid 10168:tid 472] AH00418: Parent: Created child process 2952
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 2952:tid 532] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 30 20:44:56.844939 2023] [mpm_winnt:notice] [pid 10168:tid 472] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 30 20:44:58.848616 2023] [mpm_winnt:notice] [pid 2952:tid 532] AH00364: Child: All worker threads have exited.
+[Mon Oct 30 20:44:58.875879 2023] [mpm_winnt:notice] [pid 10168:tid 472] AH00430: Parent: Child process 2952 exited successfully.
+[Tue Oct 31 18:24:08.846011 2023] [mpm_winnt:notice] [pid 9436:tid 468] AH00455: Apache/2.4.58 (Win64) PHP/8.2.12 configured -- resuming normal operations
+[Tue Oct 31 18:24:08.846011 2023] [mpm_winnt:notice] [pid 9436:tid 468] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Oct 31 18:24:08.846011 2023] [core:notice] [pid 9436:tid 468] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 31 18:24:08.847011 2023] [mpm_winnt:notice] [pid 9436:tid 468] AH00418: Parent: Created child process 8532
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 8532:tid 496] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 31 18:43:52.949767 2023] [mpm_winnt:notice] [pid 9436:tid 468] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 31 18:43:54.952425 2023] [mpm_winnt:notice] [pid 8532:tid 496] AH00364: Child: All worker threads have exited.
+[Tue Oct 31 18:43:54.973413 2023] [mpm_winnt:notice] [pid 9436:tid 468] AH00430: Parent: Child process 8532 exited successfully.
+[Sun Nov 05 17:22:22.129907 2023] [mpm_winnt:notice] [pid 9344:tid 476] AH00455: Apache/2.4.58 (Win64) PHP/8.2.12 configured -- resuming normal operations
+[Sun Nov 05 17:22:22.129907 2023] [mpm_winnt:notice] [pid 9344:tid 476] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sun Nov 05 17:22:22.129907 2023] [core:notice] [pid 9344:tid 476] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Nov 05 17:22:22.131906 2023] [mpm_winnt:notice] [pid 9344:tid 476] AH00418: Parent: Created child process 1956
+[Sun Nov 05 17:22:22.475849 2023] [mpm_winnt:notice] [pid 1956:tid 472] AH00354: Child: Starting 64 worker threads.
+[Sun Nov 05 17:23:33.047010 2023] [log_config:warn] [pid 1956:tid 1300] (OS 112)Недостаточно места на диске.  : [client ::1:60079] AH00646: Error writing to logs/access.log
+[Sun Nov 05 17:23:34.377682 2023] [log_config:warn] [pid 1956:tid 1300] (OS 112)Недостаточно места на диске.  : [client ::1:60079] AH00646: Error writing to logs/access.log, referer: http://localhost/
+[Sun Nov 05 17:23:47.444082 2023] [log_config:warn] [pid 1956:tid 1312] (OS 112)Недостаточно места на диске.  : [client ::1:60078] AH00646: Error writing to logs/access.log
+[Sun Nov 05 17:24:47.434140 2023] [log_config:warn] [pid 1956:tid 1300] (OS 112)Недостаточно места на диске.  : [client ::1:60081] AH00646: Error writing to logs/access.log
+[Sun Nov 05 17:24:50.177179 2023] [log_config:warn] [pid 1956:tid 1300] (OS 112)Недостаточно места на диске.  : [client ::1:60087] AH00646: Error writing to logs/access.log
+[Sun Nov 05 17:25:20.833359 2023] [log_config:warn] [pid 1956:tid 1312] (OS 112)Недостаточно места на диске.  : [client ::1:60088] AH00646: Error writing to logs/access.log, referer: http://localhost/pinfo.php
+[Sun Nov 05 17:28:27.512309 2023] [php:error] [pid 1956:tid 1312] [client ::1:60110] PHP Fatal error:  Cannot redeclare min() in C:\\Apache24\\htdocs\\pinfo.php on line 30, referer: http://localhost/pinfo.php
+[Sun Nov 05 17:29:11.834119 2023] [php:error] [pid 1956:tid 1300] [client ::1:60111] PHP Fatal error:  Cannot redeclare min() in C:\\Apache24\\htdocs\\pinfo.php on line 30, referer: http://localhost/pinfo.php
